@@ -2,7 +2,7 @@
 
 ## Contenido:
 1. [Situación](https://github.com/Sebastian-Diaz-Berdecia/Estatus-de-operaciones-Electromas-/tree/main#situaci%C3%B3n):
-   - [Presentación]()
+   - [Presentación](Archivos/Electromas_storytelling.pdf)
 
 2. [Dashboard](https://github.com/Sebastian-Diaz-Berdecia/Estatus-de-operaciones-Electromas-#dashboard-estatus-de-operaciones):
    - [Volumen de ventas por ciudad](https://github.com/Sebastian-Diaz-Berdecia/Estatus-de-operaciones-Electromas-#1-volumen-de-ventas-por-ciudad)
