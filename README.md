@@ -2,7 +2,7 @@
 
 ## Contenido:
 1. [Situación](https://github.com/Sebastian-Diaz-Berdecia/Estatus-de-operaciones-Electromas-/tree/main#situaci%C3%B3n):
-   - [Power Point](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FJuan-Sebastian-Diaz-Berdecia%2FPower-BI-Data-Analytics%2Frefs%2Fheads%2Fmain%2FArchivos%2FElectromas_storytelling.pptx&wdOrigin=BROWSELINK)
+   - [Presentación]()
 
 2. [Dashboard](https://github.com/Sebastian-Diaz-Berdecia/Estatus-de-operaciones-Electromas-#dashboard-estatus-de-operaciones):
    - [Volumen de ventas por ciudad](https://github.com/Sebastian-Diaz-Berdecia/Estatus-de-operaciones-Electromas-#1-volumen-de-ventas-por-ciudad)
@@ -12,9 +12,9 @@
 
 3. [Modelo de datos](https://github.com/Sebastian-Diaz-Berdecia/Estatus-de-operaciones-Electromas-#modelo-de-datos)
 
-4. Datos ventas
+4. [Datos ventas](https://github.com/Sebastian-Diaz-Berdecia/Estatus-de-operaciones-Electromas-/raw/refs/heads/main/Archivos/Datos+Ventas+ElectroMax.xlsx)
 
-# 
+#
 
 ### Situación:
 El nuevo CEO de Electromas, una empresa de electrodomésticos del mercado minorista japonés, desea conocer el estatus de las operaciones de la empresa para tomar decisiones más informadas.
@@ -24,7 +24,7 @@ Para ello desea saber:
 - Márgenes de ganancia.
 - Comportamiento de los diferentes canales de venta.
 
-# 
+#
    
 ### Dashboard estatus de operaciones
 #### 1. Volumen de ventas por ciudad:
@@ -39,7 +39,7 @@ Para ello desea saber:
 #### 4. Ingresos, costos, beneficios y margen por categoría:
 <img width="1877" height="1068" alt="image" src="https://github.com/user-attachments/assets/36eea991-93f6-4dd7-a043-0ffd6ab465d6" />
 
-# 
+#
 
 ### Modelo de datos
 <img width="1122" height="677" alt="image" src="https://github.com/user-attachments/assets/c199e199-d531-4394-bb47-dfd91c420dd9" />
