@@ -1,16 +1,16 @@
 # Estatus de operaciones Electromas
 
 ## Contenido:
-1. [Situación](https://github.com/Sebastian-Diaz-Berdecia/Estatus-de-operaciones-Electromas-#situaci%C3%B3n):
+1. Situación:
    - [Power Point](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FJuan-Sebastian-Diaz-Berdecia%2FPower-BI-Data-Analytics%2Frefs%2Fheads%2Fmain%2FArchivos%2FElectromas_storytelling.pptx&wdOrigin=BROWSELINK)
 
-2. [Dashboard](https://github.com/Sebastian-Diaz-Berdecia/Estatus-de-operaciones-Electromas-#dashboard-estatus-de-operaciones):
-   - [Volumen ventas por ciudad y canal](https://github.com/Juan-Sebastian-Diaz-Berdecia/Power-BI-Data-Analytics/blob/main/README.md#1-volumen-de-ventas-por-ciudad)
-   - [Ventas por categoría](https://github.com/Juan-Sebastian-Diaz-Berdecia/Power-BI-Data-Analytics/blob/main/README.md#2-ventas-por-categor%C3%ADa)
-   - [Ingresos, costos, beneficios y margen por ciudad](https://github.com/Juan-Sebastian-Diaz-Berdecia/Power-BI-Data-Analytics/blob/main/README.md#3-ingresos-costos-beneficios-y-margen-por-ciudad)
-   - [Ingresos, costos, beneficios y margen por categoría](https://github.com/Juan-Sebastian-Diaz-Berdecia/Power-BI-Data-Analytics/blob/main/README.md#4-ingresos-costos-beneficios-y-margen-por-categor%C3%ADa)
+2. Dashboard:
+   - Volumen ventas por ciudad y canal
+   - Ventas por categoría
+   - Ingresos, costos, beneficios y margen por ciudad
+   - Ingresos, costos, beneficios y margen por categoría
 
-3. [Modelo de datos](https://github.com/Sebastian-Diaz-Berdecia/Estatus-de-operaciones-Electromas-#modelo-de-datos)
+3. Modelo de datos
 
 4. [Datos ventas](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FJuan-Sebastian-Diaz-Berdecia%2FPower-BI-Data-Analytics%2Frefs%2Fheads%2Fmain%2FArchivos%2FDatos%252BVentas%252BElectroMax.xlsx&wdOrigin=BROWSELINK)
 
