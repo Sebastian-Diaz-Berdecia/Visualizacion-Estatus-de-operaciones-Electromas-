@@ -6,7 +6,7 @@
 
 2. [Dashboard](https://github.com/Sebastian-Diaz-Berdecia/Estatus-de-operaciones-Electromas-/tree/main#dashboard-estatus-de-operaciones):
    - [Volumen ventas por ciudad y canal](https://github.com/Sebastian-Diaz-Berdecia/Estatus-de-operaciones-Electromas-#1-volumen-de-ventas-por-ciudad)
-   - [Ventas por categoría](https://github.com/Sebastian-Diaz-Berdecia/Estatus-de-operaciones-Electromas-/tree/main#2-ventas-por-categor%C3%ADa)
+   - [Ventas por categoría](https://github.com/Sebastian-Diaz-Berdecia/Estatus-de-operaciones-Electromas-#2-ventas-por-categor%C3%ADa)
    - Ingresos, costos, beneficios y margen por ciudad
    - Ingresos, costos, beneficios y margen por categoría
 
