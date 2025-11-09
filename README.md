@@ -10,7 +10,7 @@
    - Ingresos, costos, beneficios y margen por ciudad
    - Ingresos, costos, beneficios y margen por categoría
 
-3. [Modelo de datos](https://github.com/Sebastian-Diaz-Berdecia/Estatus-de-operaciones-Electromas-/tree/main#modelo-de-datos)
+3. [Modelo de datos](https://github.com/Sebastian-Diaz-Berdecia/Estatus-de-operaciones-Electromas-#modelo-de-datos)
 
 4. Datos ventas
 
