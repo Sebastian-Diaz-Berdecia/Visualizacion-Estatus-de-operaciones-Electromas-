@@ -7,7 +7,7 @@
 2. [Dashboard](https://github.com/Sebastian-Diaz-Berdecia/Estatus-de-operaciones-Electromas-#dashboard-estatus-de-operaciones):
    - [Volumen de ventas por ciudad](https://github.com/Sebastian-Diaz-Berdecia/Estatus-de-operaciones-Electromas-#1-volumen-de-ventas-por-ciudad)
    - [Ventas por categoría](https://github.com/Sebastian-Diaz-Berdecia/Estatus-de-operaciones-Electromas-#2-ventas-por-categor%C3%ADa)
-   - Ingresos, costos, beneficios y margen por ciudad
+   - [Ingresos, costos, beneficios y margen por ciudad](https://github.com/Sebastian-Diaz-Berdecia/Estatus-de-operaciones-Electromas-#3-ingresos-costos-beneficios-y-margen-por-ciudad)
    - Ingresos, costos, beneficios y margen por categoría
 
 3. [Modelo de datos](https://github.com/Sebastian-Diaz-Berdecia/Estatus-de-operaciones-Electromas-#modelo-de-datos)
