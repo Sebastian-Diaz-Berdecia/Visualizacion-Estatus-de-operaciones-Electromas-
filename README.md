@@ -9,7 +9,7 @@ Para ello desea saber:
 - Márgenes de ganancia.
 - Comportamiento de los diferentes canales de venta.
 
-Con los datos recabados en los archivos de excel y usando Power Bi se contruye un dashboard que permita visualizar y resumir toda la información relevante asociada.
+Con los datos recabados en los archivos de Excel y usando Power Bi se contruye un dashboard que permita visualizar y resumir toda la información relevante asociada.
 #
 
 ## Contenido:
