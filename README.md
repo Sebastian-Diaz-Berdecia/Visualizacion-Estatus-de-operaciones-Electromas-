@@ -1,4 +1,4 @@
-# Dasboard Estatus de operaciones Electromas
+# Dasboard estatus de operaciones Electromas
 
 
 ## Situación:
