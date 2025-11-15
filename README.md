@@ -1,5 +1,17 @@
 # Estatus de operaciones Electromas
 
+#
+
+## Situación:
+El nuevo CEO de Electromas, una empresa de electrodomésticos del mercado minorista japonés, desea conocer el estatus de las operaciones de la empresa para tomar decisiones más informadas.
+Para ello desea saber:
+- ¿Cuántas unidades se venden?
+- Ingresos generados.
+- Márgenes de ganancia.
+- Comportamiento de los diferentes canales de venta.
+
+#
+
 ## Contenido:
 1. [Situación](https://github.com/Sebastian-Diaz-Berdecia/Estatus-de-operaciones-Electromas-/tree/main#situaci%C3%B3n):
    - [Presentación](Archivos/Electromas_storytelling.pdf)
@@ -13,16 +25,6 @@
 3. [Modelo de datos](https://github.com/Sebastian-Diaz-Berdecia/Estatus-de-operaciones-Electromas-#modelo-de-datos)
 
 4. [Datos ventas](https://github.com/Sebastian-Diaz-Berdecia/Estatus-de-operaciones-Electromas-/raw/refs/heads/main/Archivos/Datos+Ventas+ElectroMax.xlsx)
-
-#
-
-### Situación:
-El nuevo CEO de Electromas, una empresa de electrodomésticos del mercado minorista japonés, desea conocer el estatus de las operaciones de la empresa para tomar decisiones más informadas.
-Para ello desea saber:
-- ¿Cuántas unidades se venden?
-- Ingresos generados.
-- Márgenes de ganancia.
-- Comportamiento de los diferentes canales de venta.
 
 #
    
