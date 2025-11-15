@@ -1,6 +1,5 @@
 # Estatus de operaciones Electromas
 
-#
 
 ## Situación:
 El nuevo CEO de Electromas, una empresa de electrodomésticos del mercado minorista japonés, desea conocer el estatus de las operaciones de la empresa para tomar decisiones más informadas.
