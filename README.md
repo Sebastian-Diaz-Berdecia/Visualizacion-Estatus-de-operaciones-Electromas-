@@ -1,4 +1,4 @@
-# Dasboard estatus de operaciones Electromas
+# 📊 Dashboard estatus de operaciones Electromas
 
 
 ## Situación:
@@ -12,7 +12,7 @@ Para ello desea saber:
 Con los datos recabados en los archivos de Excel y usando Power Bi se contruye un dashboard que permita visualizar y resumir toda la información relevante asociada.
 #
 
-## Contenido:
+## 📂 Contenido:
 1. [Situación](https://github.com/Sebastian-Diaz-Berdecia/Estatus-de-operaciones-Electromas-/tree/main#situaci%C3%B3n):
    - [Presentación](Archivos/Electromas_storytelling.pdf)
 
@@ -28,7 +28,7 @@ Con los datos recabados en los archivos de Excel y usando Power Bi se contruye u
 
 #
    
-### Dashboard estatus de operaciones
+### 📊 Dashboard estatus de operaciones
 #### 1. Volumen de ventas por ciudad:
 <img width="1881" height="1083" alt="image" src="https://github.com/user-attachments/assets/9e683344-423c-47a4-b9af-51fe24fca6e6" />
 
@@ -43,7 +43,7 @@ Con los datos recabados en los archivos de Excel y usando Power Bi se contruye u
 
 #
 
-### Modelo de datos
+### 🔑 Modelo de datos
 <img width="1122" height="677" alt="image" src="https://github.com/user-attachments/assets/c199e199-d531-4394-bb47-dfd91c420dd9" />
 
 #
