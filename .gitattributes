@@ -1,2 +1,5 @@
 *.xlxs linguist-detectable=true
-*.sql linguist-language=pbix
+*.xlsx linguist-language=xlsx
+
+*.pbix linguist-detectable=true
+*.pbix linguist-language=pbix
