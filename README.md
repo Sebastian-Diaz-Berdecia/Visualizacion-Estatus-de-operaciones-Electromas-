@@ -25,6 +25,7 @@ Con los datos recabados en los archivos de Excel y usando Power Bi se contruye u
 3. [Modelo de datos](https://github.com/Sebastian-Diaz-Berdecia/Estatus-de-operaciones-Electromas-#modelo-de-datos)
 
 4. [Datos ventas](https://github.com/Sebastian-Diaz-Berdecia/Estatus-de-operaciones-Electromas-/raw/refs/heads/main/Archivos/Datos+Ventas+ElectroMax.xlsx)
+5. Conclusiones.
 
 #
    
@@ -47,3 +48,36 @@ Con los datos recabados en los archivos de Excel y usando Power Bi se contruye u
 <img width="1122" height="677" alt="image" src="https://github.com/user-attachments/assets/c199e199-d531-4394-bb47-dfd91c420dd9" />
 
 #
+
+### 🔍 Conclusiones
+
+* ####  En total se han vendido 5885 unidades de electrodomesticos a lo largo de todo Japón correspondientes a 700 lineas de productos diferentes.
+<img width="846" height="186" alt="image" src="https://github.com/user-attachments/assets/4b7a3e7c-751f-4fe5-93d0-f5d238186985" />
+
+* ####  La ciudad que más unidades ha vendido es Tokio con 2400 unidades vendidas en total.
+<img width="437" height="369" alt="image" src="https://github.com/user-attachments/assets/d3be4d39-2c28-4326-a200-d41600f0d29d" />
+
+* #### Los ingresos totales generados por la operación entre todos los periodos del análisis rondan los $1.039 Millones de dolares mientras los beneficios totales llegan a los $153 Mil dolares. El margen de ganacia de toda la operación es el 14.73%.
+
+  <img width="848" height="93" alt="image" src="https://github.com/user-attachments/assets/eaec0a5b-2a1b-45dd-b5e5-b3399829ca40" />
+
+* #### Comparando el volumen de ventas por canal se observa que el canal de ventas Online es el canal a traves del cual más unidades de productos se han vendido ocupando el 85.86% (5.50 Mil unidades) de todas las unidades vendidas generando el 85% de los ingresos totales frente al 15% generado por el canal de tienda fisica
+
+<img width="217" height="224" alt="image" src="https://github.com/user-attachments/assets/ec5520af-1138-40bf-9c65-62c5f19670a2" />
+
+<img width="232" height="224" alt="image" src="https://github.com/user-attachments/assets/158a5517-9c48-4527-8ed6-fb8cb82c8f7b" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
