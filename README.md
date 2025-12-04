@@ -57,11 +57,11 @@ Con los datos recabados en los archivos de Excel y usando Power Bi se contruye u
 * ####  La ciudad que más unidades ha vendido es Tokio con 2400 unidades vendidas en total.
 <img width="437" height="369" alt="image" src="https://github.com/user-attachments/assets/d3be4d39-2c28-4326-a200-d41600f0d29d" />
 
-* #### Los ingresos totales generados por la operación entre todos los periodos del análisis rondan los $1.039 Millones de dolares mientras los beneficios totales llegan a los $153 Mil dolares. El margen de ganacia de toda la operación es el 14.73%.
+* #### Los ingresos totales generados por la operación entre todos los periodos del análisis rondan los $1.039 millones de dolares mientras los beneficios totales llegan a los $153 mil dolares. El margen de ganacia de toda la operación es el 14.73%.
 
   <img width="848" height="93" alt="image" src="https://github.com/user-attachments/assets/eaec0a5b-2a1b-45dd-b5e5-b3399829ca40" />
 
-* #### Comparando el volumen de ventas por canal se observa que el canal de ventas Online es el canal a traves del cual más unidades de productos se han vendido ocupando el 85.86% (5.50 Mil unidades) de todas las unidades vendidas generando el 85% de los ingresos totales frente al 15% generado por el canal de tienda fisica
+* #### Comparando el volumen de ventas por canal se observa que el canal de ventas Online es el canal a través del cual más unidades de productos se han vendido ocupando el 85.86% (5.50 mil unidades) de todas las unidades vendidas generando el 85% de los ingresos totales frente al 15% generado por el canal de tienda física.
 
 <img width="217" height="224" alt="image" src="https://github.com/user-attachments/assets/ec5520af-1138-40bf-9c65-62c5f19670a2" />
 
