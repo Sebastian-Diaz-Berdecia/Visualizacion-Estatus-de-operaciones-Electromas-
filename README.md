@@ -25,7 +25,7 @@ Con los datos recabados en los archivos de Excel y usando Power Bi se contruye u
 3. [Modelo de datos](https://github.com/Sebastian-Diaz-Berdecia/Estatus-de-operaciones-Electromas-#modelo-de-datos)
 
 4. [Datos ventas](https://github.com/Sebastian-Diaz-Berdecia/Estatus-de-operaciones-Electromas-/raw/refs/heads/main/Archivos/Datos+Ventas+ElectroMax.xlsx)
-5. Conclusiones.
+5. [Conclusiones](https://github.com/Sebastian-Diaz-Berdecia/Visualizacion-Estatus-de-operaciones-Electromas-/tree/main?tab=readme-ov-file#-conclusiones)
 
 #
    
