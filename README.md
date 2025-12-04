@@ -67,7 +67,7 @@ Con los datos recabados en los archivos de Excel y usando Power Bi se contruye u
 
 <img width="232" height="224" alt="image" src="https://github.com/user-attachments/assets/158a5517-9c48-4527-8ed6-fb8cb82c8f7b" />
 
-
+#
 
 
 
